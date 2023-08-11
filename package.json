@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "calculadora": "^1.0.1",
+    "calculadora-steamacademy": "^1.0.3",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "spelling-corrector": "^3.0.0"
+  }
+}
